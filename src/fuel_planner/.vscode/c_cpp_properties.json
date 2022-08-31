@@ -1,0 +1,40 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/gao/project/Fast-Drone-250/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/active_perception/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/bspline/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/bspline_opt/include/**",
+        "/home/gao/project/Fast-Drone-250/src/realflight_modules/VINS-Fusion/camera_models/include/**",
+        "/home/gao/project/Fast-Drone-250/src/utils/DecompROS/decomp_ros_utils/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/exploration_manager/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/utils/lkh_tsp_solver/include/**",
+        "/home/gao/project/Fast-Drone-250/src/uav_simulator/mockamap/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/path_searching/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/plan_env/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/plan_manage/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/poly_traj/include/**",
+        "/home/gao/project/Fast-Drone-250/src/utils/pose_utils/include/**",
+        "/home/gao/project/Fast-Drone-250/src/utils/quadrotor_msgs/include/**",
+        "/home/gao/project/Fast-Drone-250/src/realflight_modules/realsense-ros/realsense2_camera/include/**",
+        "/home/gao/project/Fast-Drone-250/src/uav_simulator/so3_control/include/**",
+        "/home/gao/project/Fast-Drone-250/src/uav_simulator/so3_quadrotor_simulator/include/**",
+        "/home/gao/project/Fast-Drone-250/src/fuel_planner/traj_utils/include/**",
+        "/home/gao/project/Fast-Drone-250/src/utils/uav_utils/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
